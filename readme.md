@@ -1,20 +1,21 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Professional? Maybe</h1>
 
 ###
 
-<p align="left">My name is Kunal and I'm a passionate cybersecurity enthusiast from India</p>
+<p align="left">Kunal here. I mess with computers and call it cybersecurity</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Self-proclaimed hacker</h2>
 
 ###
 
 <p align="left">
-✨ Creating bugs since I learned how to open a terminal<br>
-📚 I'm currently learning Penetration testing, Web App Security (OWASP Top 10), CEH course, and Python for Cybersecurity<br>
-🎯 Goals: Build impactful cybersecurity tools like ScanForge and contribute to open-source infosec<br>
-🎲 Spoiler: Malware analysis > Netflix
+Expert at breaking things no one else can find.  
+<br>
+Pretending to be a hacker while Googling everything. 
+<br> 
+Building tools that probably cause more problems than they solve.
 </p>
 
 ###
@@ -61,3 +62,4 @@
 📫 Email: <strong>polardnickolas@gmail.com</strong><br>
 🌐 Projects: <a href="https://github.com/toonscascade" target="_blank">github.com/toonscascade</a>
 </p>
+<h2 align="center">More code, less talk</h2> 
