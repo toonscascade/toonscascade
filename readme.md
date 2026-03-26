@@ -49,6 +49,8 @@ Expert at breaking stuff no one sees.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+     <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://icons8.com/icon/39292/jenkins" height="40" alt="javascript logo" />
 </div>
 
 
