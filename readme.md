@@ -98,8 +98,6 @@ Expert at breaking stuff no one sees.
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40" alt="go logo" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" height="40" alt="rust logo" />
-<img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
