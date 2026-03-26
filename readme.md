@@ -22,34 +22,34 @@ Expert at breaking stuff no one sees.
 
 <div align="left">
     <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://reactnative.dev/img/header_logo.svg" height="40" alt="reactnative logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="40" alt="kali linux logo" />
-  <img width="12" />
- <img src="https://img.icons8.com/fluency/48/metasploit.png" height="40" alt="Metasploit logo" />
-  <img width="12" />
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" alt="Nmap logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Burpsuite_logo.png" height="40" alt="Burpsuite logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="firebase logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-<!-- DevOps & Cloud Icons -->
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
+<img width="12" />
+<img src="https://reactnative.dev/img/header_logo.svg" height="40" alt="reactnative logo" />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="40" alt="kali linux logo" />
+<img width="12" />
+<img src="https://img.icons8.com/fluency/48/metasploit.png" height="40" alt="Metasploit logo" />
+<img width="12" />
+<img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" alt="Nmap logo" />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Burpsuite_logo.png" height="40" alt="Burpsuite logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
+<img width="12" />
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="firebase logo" />
+<img width="12" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="git logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+<img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
@@ -102,8 +102,6 @@ Expert at breaking stuff no one sees.
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/istio/istio-original.svg" height="40" alt="istio logo" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
-<img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40" alt="bash logo" />
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40" alt="go logo" />
@@ -116,10 +114,7 @@ Expert at breaking stuff no one sees.
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-<img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="react logo" />
-<img width="12" />
 </div>
 
 
