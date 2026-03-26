@@ -60,8 +60,6 @@ Expert at breaking stuff no one sees.
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftazure/microsoftazure-original.svg" height="40" alt="azure logo" />
-<img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" />
@@ -94,13 +92,7 @@ Expert at breaking stuff no one sees.
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vault/vault-original.svg" height="40" alt="vault logo" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/puppet/puppet-original.svg" height="40" alt="puppet logo" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chef/chef-original.svg" height="40" alt="chef logo" />
-<img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" height="40" alt="helm logo" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/istio/istio-original.svg" height="40" alt="istio logo" />
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40" alt="bash logo" />
 <img width="12" />
@@ -113,8 +105,6 @@ Expert at breaking stuff no one sees.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="react logo" />
 </div>
 
 
