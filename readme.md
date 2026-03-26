@@ -49,8 +49,77 @@ Expert at breaking stuff no one sees.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-     <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://icons8.com/icon/39292/jenkins" height="40" alt="javascript logo" />
+<!-- DevOps & Cloud Icons -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftazure/microsoftazure-original.svg" height="40" alt="azure logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="git logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="github logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" height="40" alt="travis ci logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="40" alt="redis logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elasticsearch logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" height="40" alt="logstash logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" height="40" alt="kibana logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vault/vault-original.svg" height="40" alt="vault logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/puppet/puppet-original.svg" height="40" alt="puppet logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chef/chef-original.svg" height="40" alt="chef logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" height="40" alt="helm logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/istio/istio-original.svg" height="40" alt="istio logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40" alt="go logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" height="40" alt="rust logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+<img width="12" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="react logo" />
+<img width="12" />
 </div>
 
 
