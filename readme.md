@@ -1,17 +1,18 @@
-<h1 align="left">Professional? Maybe</h1>
+<h1 align="left">Professional? Debatable. Functional? Mostly.</h1>
 
 ###
 
-<p align="left">Kunal here. I mess with computers and call it cybersecurity</p>
+<p align="left">Kunal here. I build things, break things, automate things… and occasionally fix them before anyone notices.</p>
 
 ###
 
-<h2 align="left">Self-proclaimed hacker</h2>
+<h2 align="left">Self-proclaimed engineer of “it works on my machine” systems</h2>
 
 ###
 
 <p align="left">
-Expert at breaking stuff no one sees.
+Curious, consistent, and always learning.
+Building skills through practice and experience.
 </p>
 
 ###
