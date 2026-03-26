@@ -84,14 +84,6 @@ Expert at breaking stuff no one sees.
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="40" alt="redis logo" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="elasticsearch logo" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" height="40" alt="logstash logo" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" height="40" alt="kibana logo" />
-<img width="12" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vault/vault-original.svg" height="40" alt="vault logo" />
-<img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" height="40" alt="helm logo" />
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40" alt="bash logo" />
