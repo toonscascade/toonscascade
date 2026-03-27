@@ -1,14 +1,9 @@
-<h1 align="left">Professional? Debatable. Functional? Mostly.</h1>
+<!-- Profile Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F79824&center=true&vCenter=true&width=900&lines=Hi%F0%9F%91%8B%2C+I'm+Kunal;DevOps+%7C+Cloud+%7C+CI%2FCD+%7C+IaC+Engineer;Transforming+ideas+into+cloud-native+solutions" alt="Typing SVG" />
+</div>
 
-###
-
-<p align="left">Kunal here. I build things, break things, automate things… and occasionally fix them before anyone notices.</p>
-
-###
-
-<h2 align="left">Self-proclaimed engineer of “it works on my machine” systems</h2>
-
-###
+---
 
 <p align="left">
 Curious, consistent, and always learning.
@@ -28,7 +23,7 @@ Building skills through practice and experience.
 📊 Passionate about **Cloud Automation**, **Monitoring**, and **Infrastructure as Code**.  
 🎓 Pursuing B.Tech in Computer Science | Pune, India  
 📢 Guest Lecturer | YouTuber | Tech Educator  
-📬 Email: [omnagare07@gmail.com](mailto:omnagare07@gmail.com)
+📬 Email: [kunalkr3416@gmail.com](mailto:kunalkr3416@gmail.com)
 
 ---
 
