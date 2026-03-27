@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kunal</h1>
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F79824&center=true&vCenter=true&width=900&;DevOps+%7C+Cloud+%7C+CI%2FCD+%7C+IaC+Engineer;Transforming+ideas+into+cloud-native+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F79824&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B%2C+;DevOps+%7C+Cloud+%7C+CI%2FCD+%7C+IaC+Engineer;Transforming+ideas+into+cloud-native+solutions" alt="Typing SVG" />
 </div>
 
 ---
