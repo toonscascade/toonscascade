@@ -12,9 +12,6 @@ Building skills through practice and experience.
 
 ###
 
-<h2 align="left">Tech Stack</h2>
-
-###
 
 <!-- About Me -->
 ### 👨‍💻 About Me
