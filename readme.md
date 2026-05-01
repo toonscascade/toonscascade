@@ -46,6 +46,6 @@ Building skills through practice and experience.
 
 <p align="left">
 📫 Email: <strong>kunalkr3416@gmail.com</strong><br>
-🌐 Projects: <a href="https://github.com/toonscascade" target="_blank">github.com/toonscascade</a>
+🌐 Projects: <a href="https://github.com/toonscascade/repositories" target="_blank">github.com/toonscascade</a>
 </p>
 <h2 align="center">More code, less talk</h2> 
