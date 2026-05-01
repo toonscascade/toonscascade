@@ -45,7 +45,7 @@ Building skills through practice and experience.
 <h2 align="left">Connect with me</h2>
 
 <p align="left">
-📫 Email: <strong>polardnickolas@gmail.com</strong><br>
+📫 Email: <strong>kunalkr3416@gmail.com</strong><br>
 🌐 Projects: <a href="https://github.com/toonscascade" target="_blank">github.com/toonscascade</a>
 </p>
 <h2 align="center">More code, less talk</h2> 
